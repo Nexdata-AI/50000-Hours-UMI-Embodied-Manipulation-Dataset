@@ -5,5 +5,5 @@ UMI Embodied Manipulation Dataset: a large-scale real-world teleoperation datase
 
 For more details, please refer to the link: https://www.nexdata.ai/datasets/embodied-ai/2300?source=Github
 
-# Licensing Information
+## Licensing Information
 Commercial License
